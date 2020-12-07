@@ -25,5 +25,10 @@ namespace Abstraktion
         {
             Console.WriteLine("Shark is autopiloting 4Head");
         }
+        public void Swim()
+        {
+            Console.WriteLine("Shark is swimming");
+        }
     }
+ 
 }

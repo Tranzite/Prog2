@@ -2,3 +2,12 @@ C:\Users\Tranz\Documents\GitHub\Prog2\Abstraktion\Abstraktion\obj\Debug\netcorea
 C:\Users\Tranz\Documents\GitHub\Prog2\Abstraktion\Abstraktion\obj\Debug\netcoreapp3.1\Abstraktion.AssemblyInfoInputs.cache
 C:\Users\Tranz\Documents\GitHub\Prog2\Abstraktion\Abstraktion\obj\Debug\netcoreapp3.1\Abstraktion.AssemblyInfo.cs
 C:\Users\Tranz\Documents\GitHub\Prog2\Abstraktion\Abstraktion\obj\Debug\netcoreapp3.1\Abstraktion.csproj.CoreCompileInputs.cache
+C:\Users\Tranz\Documents\GitHub\Prog2\Abstraktion\Abstraktion\bin\Debug\netcoreapp3.1\Abstraktion.exe
+C:\Users\Tranz\Documents\GitHub\Prog2\Abstraktion\Abstraktion\bin\Debug\netcoreapp3.1\Abstraktion.deps.json
+C:\Users\Tranz\Documents\GitHub\Prog2\Abstraktion\Abstraktion\bin\Debug\netcoreapp3.1\Abstraktion.runtimeconfig.json
+C:\Users\Tranz\Documents\GitHub\Prog2\Abstraktion\Abstraktion\bin\Debug\netcoreapp3.1\Abstraktion.runtimeconfig.dev.json
+C:\Users\Tranz\Documents\GitHub\Prog2\Abstraktion\Abstraktion\bin\Debug\netcoreapp3.1\Abstraktion.dll
+C:\Users\Tranz\Documents\GitHub\Prog2\Abstraktion\Abstraktion\bin\Debug\netcoreapp3.1\Abstraktion.pdb
+C:\Users\Tranz\Documents\GitHub\Prog2\Abstraktion\Abstraktion\obj\Debug\netcoreapp3.1\Abstraktion.dll
+C:\Users\Tranz\Documents\GitHub\Prog2\Abstraktion\Abstraktion\obj\Debug\netcoreapp3.1\Abstraktion.pdb
+C:\Users\Tranz\Documents\GitHub\Prog2\Abstraktion\Abstraktion\obj\Debug\netcoreapp3.1\Abstraktion.genruntimeconfig.cache

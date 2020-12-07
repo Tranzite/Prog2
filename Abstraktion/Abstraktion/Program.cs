@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Abstraktion
 {
@@ -23,6 +24,11 @@ namespace Abstraktion
                 animal.Breathe();
                 animal.Eat();
                 animal.Rest();
+
+                if (animal is Shark tempShark)
+                {
+                    tempShark.Swim();
+                }
             }
         }
     }
